@@ -4,6 +4,6 @@
 
 // export default()  => (
 //   <main>
-//     <h1>this is main</h1>
+//     <h2>why</h2>
 //   </main>
 // )
